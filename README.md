@@ -8,7 +8,6 @@ $ npm start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
 ![Alt text](<Screenshot 2023-10-26 161735.png>)
 
